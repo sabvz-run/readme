@@ -5,3 +5,7 @@
   </a>
 </p>
 
+<p align="right">
+  <img src="assets/mascote/oi.gif" width="140"          
+      alt="Mascote dando oi">
+</p>
